@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**wsuryaningrat/wsuryaningrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wahyu, a Data Scientist and Mathematical Modeler based in Jakarta - Indonesia.
 
-Here are some ideas to get you started:
+ I've been in the tech industry since 2021 and currently working as Data Scientist at IDX Consulting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm coding with R and Python on a daily basis and coding Maple/Matlab on my pet projects about mathematical model.
+
+### Find me all around the web:
+
+<p align="left">
+<a href="http://twitter.com/wsningrat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/wsningrat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://instagram.com/wsningrat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+</p>
+
+
