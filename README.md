@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Wahyu, a Data Scientist and Mathematical Modeler based in Jakarta - Indonesia.
+My name is Wahyu, a Data Scientist based in Jakarta - Indonesia.
 
- I've been in the tech industry since 2021 and currently working as Data Scientist at IDX Consulting.
+I've been in the tech industry since 2021 and currently working as Data Scientist at IDX Consulting.
 
 I'm coding with R and Python on a daily basis and coding Maple/Matlab on my pet projects about mathematical model.
 
