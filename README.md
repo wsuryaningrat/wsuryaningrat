@@ -2,7 +2,7 @@
 
 My name is Wahyu, a Data Scientist based in Jakarta - Indonesia.
 
-I've been in the tech industry since 2021 and currently working as Data Scientist at IDX Consulting.
+I've been in the tech industry since 2021.
  
 
 ### Find me all around the web:
